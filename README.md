@@ -29,19 +29,19 @@ This project is a modern and responsive restaurant website designed to showcase 
 Here are a few previews of the Grilli Restaurant website:
 
 ### 🏠 Homepage  
-![Homepage](./Screenshot%202025-04-11%20151004.png)  
+![Homepage](./home.png)  
 *A welcoming hero section with featured menu items and smooth animations.*
 
 ### 📋 Menu Section  
-![Menu](./Screenshot%202025-04-11%20150913.png)  
+![Menu](./menu.png)  
 *A responsive grid layout showing featured dishes with prices and descriptions.*
 
 ### 🧾 Booking/Contact Section  
-![Booking](./Screenshot%202025-04-11%20150935.png)  
+![Booking](./contact.png)  
 *A form for table reservations and contact information.*
 
 ### 📍 Footer  
-![Footer](./Screenshot%202025-04-11%20152323.png)  
+![Footer](./footer.png)  
 *Includes address and social links.*
 
 ---
